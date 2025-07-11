@@ -1,17 +1,14 @@
-"tokens": [
-  {
-    "chainId": 101,
-    "address": "So11111111111111111111111111111111111111112",
-    "symbol": "SOL",
-    "name": "Solana",
+{
+  "chainId": 101,
+  "address": "5Rq9zjYv4A43uMRvjoTpZ8XK3Cmy83QzzS5J9ZDnyB9Y",
+  "symbol": "NKRD",
+  "name": "Nackerd",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/NACKERD/NKRD/main/assets/mainnet/5Rq9zjYv4A43uMRvjoTpZ8XK3Cmy83QzzS5J9ZDnyB9Y.png",
+  "extensions": {
+    "website": "https://nkrdtoken.com",
+    "twitter": "https://x.com/NKRDtoken",
+    "description": "NKRD is a savings token for grafters. Fixed supply, no dilution — built for long-term holders."
   },
-  {
-    "chainId": 101,
-    "address": "5Rq9zjYv4A43uMRVjoTpZ8XK3Cmy83Qzz5SJ9ZDnyB9Y",
-    "symbol": "NKRD",
-    "name": "NACKERD",
-    "decimals": 9,
-"logoURI": "https://raw.githubusercontent.com/NACKERD/NKRD/main/assets/mainnet/5Rq9zjYv4A43uMRvjoTpZ8XK3Cmy83QzzS5J9ZDnyB9Y.png",
-    "tags": ["community", "meme", "working-class"]
-  }
-
+  "tags": ["community", "meme", "working-class"]
+}
